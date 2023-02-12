@@ -1,0 +1,200 @@
+@media  only screen  and (max-width:420px){
+    .inner-container {
+        margin: 0 20px;
+    }
+    .svg-icon-netflix-logo {
+        width: 100px;
+    }
+    .mr-30{
+        margin-right: 2px;
+    }
+    .sign-in-btn {
+        width: 80px;
+    }
+    .inner-content-text {
+        padding: 5px;
+        margin-top: 50px;
+        margin-bottom: 45px;
+    }
+    .inner-content-text h1 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .inner-content-text h3 {
+        font-size: 18px;
+        line-height: 45px;
+    }
+    .inner-content-text p {
+        line-height: 24px;
+        font-size: 17px;
+        margin-top: 10px;
+    }
+    .get-started-btn {
+        width: 49%;
+        font-size: 20px;
+        padding: 8px;
+        margin-top: 10px;
+    }
+    .banner-input {
+        padding: 13px;
+        width: 90%;
+        font-size: 18px;
+    }
+    .get-started-icon {
+        font-size: 22px;
+    }
+    .d-flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .inner-second-sec {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        flex-direction: column;
+    }
+    .inner-sec-wd-50 {
+        width: 100%;
+    }
+    .inner-second-sec h1 {
+        font-size: 28px;
+        line-height: 32px;
+        margin-bottom: 28px;
+        text-align: center;
+    }
+    .inner-second-sec h2 {
+        color: white;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+    }
+    .video-shadow {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .mb-colm-rev{
+        flex-direction: column-reverse;
+    }
+    .frequently-question {
+        font-size: 23px;
+        line-height: 27px;
+    }
+    .second-sec {
+        padding: 50px 38px;
+    }
+    .frequently-text {
+        line-height: 23px;
+        font-size: 16px;
+    }
+    .accordion button {
+        padding: 18px;
+        font-size: 18px;
+    }
+    .footer-grid-list {
+        grid-template-columns: repeat(2, 2fr );
+    }
+    .footer-sec {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+} 
+@media  only screen  and (max-width:768px){
+    .inner-container {
+        margin: 0 20px;
+    }
+    .svg-icon-netflix-logo {
+        width: 100px;
+    }
+    .mr-30{
+        margin-right: 2px;
+    }
+    .sign-in-btn {
+        width: 80px;
+    }
+    .inner-content-text {
+        padding: 5px;
+        margin-top: 50px;
+        margin-bottom: 45px;
+    }
+    .inner-content-text h1 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .inner-content-text h3 {
+        font-size: 18px;
+        line-height: 45px;
+    }
+    .inner-content-text p {
+        line-height: 24px;
+        font-size: 17px;
+        margin-top: 10px;
+    }
+    .get-started-btn {
+        width: 33%;
+        font-size: 20px;
+        padding: 8px;
+        margin-top: 10px;
+    }
+    .banner-input {
+        padding: 13px;
+        width: 70%;
+        font-size: 18px;
+    }
+    .get-started-icon {
+        font-size: 22px;
+    }
+    .d-flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .inner-second-sec {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        flex-direction: column;
+    }
+    .inner-sec-wd-50 {
+        width: 68%;
+    }
+    .inner-second-sec h1 {
+        font-size: 28px;
+        line-height: 32px;
+        margin-bottom: 28px;
+        text-align: center;
+    }
+    .inner-second-sec h2 {
+        color: white;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+    }
+    .video-shadow {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .mb-colm-rev{
+        flex-direction: column-reverse;
+    }
+    .frequently-question {
+        font-size: 23px;
+        line-height: 27px;
+    }
+    .second-sec {
+        padding: 50px 38px;
+    }
+    .frequently-text {
+        line-height: 23px;
+        font-size: 16px;
+    }
+    .accordion button {
+        padding: 18px;
+        font-size: 18px;
+    }
+   
+    .footer-sec {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
